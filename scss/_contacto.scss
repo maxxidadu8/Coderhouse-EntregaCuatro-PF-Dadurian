@@ -1,0 +1,32 @@
+form {
+  max-width: 600px;
+  margin: 50px auto 20px;
+  padding: 50px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+input[type="text"], textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #a19c82;
+  border-radius: 5px;
+}
+  
+.btnFormulario {
+  color: $claro;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 10px;
+  background-color: $oscuro;
+}
+  

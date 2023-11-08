@@ -1,0 +1,14 @@
+body {
+    background-color: ghostwhite;
+}
+
+.bodyPosition {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0%;
+}
+
+.mainPosition {
+    flex: 1;
+}
